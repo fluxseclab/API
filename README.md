@@ -20,7 +20,7 @@ curl -X GET https://flux-fast-api.onrender.com/
 ```
 
 **`Response:`** 
-```json
+```javascript
 {
   "urls": [
     "https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html",
@@ -47,7 +47,7 @@ GET https://flux-fast-api.onrender.com/scrape?url=https://thehackernews.com/2025
 ```
 
 **`Response:`**
-```json
+```javascript
 {
   "content": "The Wild West of Shadow IT\nAug 04, 2025The 
   Hacker NewsCompliance / Data Privacy\nEveryone's an IT 
