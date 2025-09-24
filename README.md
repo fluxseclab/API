@@ -16,7 +16,7 @@ API در حال حاضر بر روی <a href="https://render.com">Render Service
 
 **`Example Request:`**
 ```bash
-curl -X GET https://flux-fast-api.onrender.com/
+curl -X GET https://fast-api-7gqj.onrender.com/
 ```
 
 **`Response:`** 
@@ -36,14 +36,14 @@ curl -X GET https://flux-fast-api.onrender.com/
 ### مسیر:
 
 ```bash
-GET https://flux-fast-api.onrender.com/scrape?url=FULL_LINK_HERE
+GET https://fast-api-7gqj.onrender.com/scrape?url=FULL_LINK_HERE
 ```
 
 ### نمونه:
 
 **`Request:`**
 ```bash
-GET https://flux-fast-api.onrender.com/scrape?url=https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html
+GET https://fast-api-7gqj.onrender.com/scrape?url=https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html
 ```
 
 **`Response:`**
